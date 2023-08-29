@@ -1,5 +1,5 @@
 # DATA245-Group5
-# Air Quality Prediction in Beijing
+# Air Quality Prediction in Beijing with Machine Learning
 This project aims to predict the air quality in Beijing using machine learning techniques. The target column used for prediction is PM2.5, which is a measure of the concentration of fine particulate matter in the air. High levels of PM2.5 are harmful to human health, so predicting the PM2.5 levels can help individuals plan their outdoor activities and take necessary precautions.
 
 ## Data
